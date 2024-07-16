@@ -88,7 +88,7 @@
                     <a href="https://laravel.com/docs">Rohit chaudhary</a>
                     <a href="https://laracasts.com">create</a>
                     <a href="https://laravel-news.com">git</a>
-                    <a href="https://blog.laravel.com">Register</a>
+                    <a href="https://blog.laravel.com">Log in</a>
                     <a href="https://nova.laravel.com">create</a>
                     <a href="https://forge.laravel.com">Campaign</a>
                     <a href="https://github.com/laravel/laravel">Dhiraj Chaudhary</a>
