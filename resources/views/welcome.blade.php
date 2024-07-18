@@ -81,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Dhiraj Chaudhary
                 </div>
 
                 <div class="links">
-                    <a href="{{ route('user.login')}}">login</a>
-                    <a href="{{ route('create.login')}}">create</a>
-                    <a href="https://laravel-news.com">git</a>
-                    <a href="https://blog.laravel.com">Log in</a>
-                    <a href="https://nova.laravel.com">login</a>
-                    <a href="https://forge.laravel.com">Campaign</a>
-                    <a href="https://github.com/laravel/laravel">Dhiraj Chaudhary</a>
+                    <a href="https://laravel.com/docs">Docs</a>
+                    <a href="https://laracasts.com">Laracasts</a>
+                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://blog.laravel.com">Blog</a>
+                    <a href="https://nova.laravel.com">Nova</a>
+                    <a href="https://forge.laravel.com">Forge</a>
+                    <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
         </div>
