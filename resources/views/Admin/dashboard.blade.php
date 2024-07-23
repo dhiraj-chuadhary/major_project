@@ -21,7 +21,7 @@ dashboard
                             <th>Donation</th>
                         </thead>
                         <tbody>
-                            <tr>
+                            <tr  class="text-secondary">
                                 <td>Dhiraj Chaudhary</td>
                                 <td>Nepal</td>
                                 <td>Birgunj</td>

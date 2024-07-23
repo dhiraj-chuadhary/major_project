@@ -20,6 +20,12 @@ Route::get('/Dhigyjgj', function () {
 Route::get('/college', function () {
    echo"Welcome to birgunj institute of technology";
 })->name('create.login');
-Route::get('/Admin', function () {
+
+
+Route::get('/dashboard', function () {
     return view('Admin.dashboard');
 });
+
+Route::get('/table', 'dhirajcontroller@table');
+
+
