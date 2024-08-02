@@ -14,18 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/Dhigyjgj', function () {
-    echo"My name is dhiraj chaudhary";
-})->name('user.login');
-Route::get('/college', function () {
-   echo"Welcome to birgunj institute of technology";
-})->name('create.login');
+    
+Route::get('/users','UsersController@index')->name('users.index');
 
-
-Route::get('/dashboard', function () {
-    return view('Admin.dashboard');
-});
-
-Route::get('/table', 'dhirajcontroller@table');
 
 
